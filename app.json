@@ -1,5 +1,5 @@
 {
-  "name": "Nosql9973",
+  "name": "nosqla",
   "description": "MongoDB Management Tool",
   "repository": "https://github.com/nosqlclient/nosqlclient",
   "logo": "https://nosqlclient.com/img/logo/mongoclient_logo-1.png",
@@ -15,7 +15,7 @@
     "BUILDPACK_URL": "https://github.com/rsercano/meteor-buildpack-horse",
     "ROOT_URL": {
       "description": "Please put same app name as subdomain to here",
-      "value": "http://your-app-name.herokuapp.com",
+      "value": "https://nosqla.herokuapp.com/",
       "required": true
     }
   },
