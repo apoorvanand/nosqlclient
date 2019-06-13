@@ -28,7 +28,7 @@
     "fbbk-json": "1.0.1",
     "jquery": "^2.2.0",
     "jquery-contextmenu": "2.6.1",
-    "jsoneditor": "^5.9.6",
+    "jsoneditor": "^6.0.0",
     "ladda": "^1.0.0",
     "meteor-node-stubs": "^0.2.3",
     "moment": "^2.19.2",
